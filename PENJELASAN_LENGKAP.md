@@ -1,6 +1,6 @@
-# 📚 PENJELASAN LENGKAP PROGRAM PAKETFLOW MONITOR
+# PENJELASAN LENGKAP PROGRAM PAKETFLOW MONITOR
 
-## 🎯 RINGKASAN SINGKAT
+## RINGKASAN SINGKAT
 Program ini adalah aplikasi GUI untuk manajemen paket pengiriman. User bisa:
 1. Menambah paket baru
 2. Mengecek status paket
@@ -11,7 +11,7 @@ Status paket **berubah otomatis** sesuai waktu: `diproses` → `shipping` → `d
 
 ---
 
-## 🔄 ALUR PROGRAM DARI AWAL SAMPAI AKHIR
+## ALUR PROGRAM DARI AWAL SAMPAI AKHIR
 
 ### **STEP 1: PROGRAM DIMULAI (`main.py`)**
 ```python
