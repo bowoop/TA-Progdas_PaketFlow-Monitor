@@ -344,7 +344,7 @@ def stop_auto_update(self):
 
 ---
 
-## 📊 DATA STRUCTURES
+## DATA STRUCTURES
 
 ### **Queue (Antrian - FIFO)**
 ```python
@@ -388,7 +388,7 @@ class Stack:
 
 ---
 
-## 🔧 SINTAKS PENTING YANG HARUS DIMENGERTI
+##  SINTAKS PENTING YANG HARUS DIMENGERTI
 
 | Sintaks | Penjelasan |
 |---------|-----------|
@@ -418,7 +418,7 @@ class Stack:
 
 ---
 
-## 📌 RINGKASAN ALUR SINGKAT
+## RINGKASAN ALUR SINGKAT
 
 ```
 MULAI (main.py)
@@ -446,21 +446,3 @@ SELESAI
 ```
 
 ---
-
-## 💡 TIPS UNTUK PRESENTASI
-
-1. **Jelaskan tujuan program dulu** sebelum masuk kode
-2. **Gunakan diagram alur** supaya audience mudah paham
-3. **Tunjukkan demo live** - tambah paket, tunggu status berubah
-4. **Jelaskan threading** - ini adalah konsep kunci (background update)
-5. **Jelaskan data structures** - Queue untuk pengantaran, Stack untuk riwayat
-6. **Sebutkan teknologi** yang dipakai:
-   - Python 3
-   - Tkinter (GUI)
-   - Threading (multi-tasking)
-   - Collections.deque (Queue)
-   - Datetime (Timestamp)
-
----
-
-**Dibuat untuk tugas presentasi Progdas (Semester 1)**
